@@ -105,7 +105,8 @@ namespace PR3
 
         private void btInfo_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Сделал:Ермаков Павел \nПрактическая работа №2 \nЗадание:Ввести n целых чисел. Найти сумму чисел < 15. Результат вывести на экран.");
+            MessageBox.Show("Сделал:Ермаков Павел \nПрактическая работа №3 \nЗадание:Дана матрица размера M × N. Для каждого столбца матрицы с четным номером (2, 
+4, …) найти сумму его элементов. Условный оператор не использовать. ");
         }
         private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
